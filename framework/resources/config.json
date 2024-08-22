@@ -1,0 +1,5 @@
+{
+  "base_url": "https://mega.readyscript.ru/",
+  "browser_option": "--incognito",
+  "wait_element_time": 30
+}
